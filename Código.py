@@ -1,7 +1,7 @@
 """
 Sala: 9A
 Gabriel Sales dos Santos
-Pedro Henrique Perdim 
+Pedro Henrique Pardim 
 Rafael dos Santos Silvino
 """
 
